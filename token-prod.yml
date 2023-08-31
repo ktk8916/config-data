@@ -1,2 +1,4 @@
 jwt:
   secret: asdklhasfjkhajkldshajkdhajkdhsajklfhasdljgshsdadassdasdsajdfghsjkfhdsjkhf
+
+secret: admin
