@@ -1,4 +1,4 @@
 jwt:
   secret: asdklhasfjkhajkldshajkdhajkdhsajklfhasdljgshsdadassdasdsajdfghsjkfhdsjkhf
 
-secret: admin
+secret: '{chipher} admin'
